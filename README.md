@@ -1,4 +1,4 @@
-# TeachOSM & Educ Wkg Grp Operations
+# TeachOSM & Education Working Group Repository
 This public repository is for the TeachOSM program and the Education Working Group EWG). All things open mapping in education. Please use it (by creating an issue) to track ongoing initiatives, operations, artifacts of the EWG.   
 
 
